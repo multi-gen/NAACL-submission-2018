@@ -1,3 +1,6 @@
+# Multilingual Summary Generation
+
+
 The baselines that were used are located in the `baselines` folder. Their respective results along with the results from our model are in the `results` folder.
 
 In the `Models` folder you will find all the necessary files to sample (i.e. beam-sample) from our trained models in both Arabic and Esperanto.
